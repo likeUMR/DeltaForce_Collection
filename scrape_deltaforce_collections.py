@@ -382,7 +382,7 @@ def suffix_from_content_type(content_type: str) -> str:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Scrape Delta Force collection resources from orzice.com.")
-    parser.add_argument("--out-dir", default="data", help="Output directory. Default: data")
+    parser.add_argument("--out-dir", default="data/collections", help="Output directory. Default: data/collections")
     parser.add_argument("--delay", type=float, default=0.2, help="Delay between page requests in seconds. Default: 0.2")
     parser.add_argument("--timeout", type=float, default=20, help="HTTP timeout in seconds. Default: 20")
     parser.add_argument("--skip-images", action="store_true", help="Do not download item images.")

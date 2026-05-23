@@ -1,0 +1,254 @@
+{
+  "item_types": [
+    {
+      "idType": 1,
+      "name": "保险柜",
+      "types": "wzd",
+      "icon": "nav_bxx"
+    },
+    {
+      "idType": 2,
+      "name": "小保险箱",
+      "types": "wzd",
+      "icon": "nav_xbxx"
+    },
+    {
+      "idType": 3,
+      "name": "服务器",
+      "types": "wzd",
+      "icon": "nav_fwq"
+    },
+    {
+      "idType": 4,
+      "name": "电脑",
+      "types": "wzd",
+      "icon": "nav_dn"
+    },
+    {
+      "idType": 5,
+      "name": "电脑机箱",
+      "types": "wzd",
+      "icon": "nav_dnjx"
+    },
+    {
+      "idType": 6,
+      "name": "武器箱",
+      "types": "wzd",
+      "icon": "nav_wqx"
+    },
+    {
+      "idType": 7,
+      "name": "大武器箱",
+      "types": "wzd",
+      "icon": "nav_dwqx"
+    },
+    {
+      "idType": 8,
+      "name": "弹药箱",
+      "types": "wzd",
+      "icon": "nav_dyx"
+    },
+    {
+      "idType": 9,
+      "name": "工具柜",
+      "types": "wzd",
+      "icon": "nav_gjg"
+    },
+    {
+      "idType": 10,
+      "name": "大工具盒",
+      "types": "wzd",
+      "icon": "nav_dgjx"
+    },
+    {
+      "idType": 11,
+      "name": "实验服",
+      "types": "wzd",
+      "icon": "nav_yf_s"
+    },
+    {
+      "idType": 12,
+      "name": "衣服",
+      "types": "wzd",
+      "icon": "nav_yf"
+    },
+    {
+      "idType": 13,
+      "name": "医疗包",
+      "types": "wzd",
+      "icon": "nav_ylb"
+    },
+    {
+      "idType": 14,
+      "name": "医疗物资堆",
+      "types": "wzd",
+      "icon": "nav_ylwzd"
+    },
+    {
+      "idType": 15,
+      "name": "旅行袋",
+      "types": "wzd",
+      "icon": "nav_lxd"
+    },
+    {
+      "idType": 16,
+      "name": "手提箱",
+      "types": "wzd",
+      "icon": "nav_stx"
+    },
+    {
+      "idType": 17,
+      "name": "储物柜",
+      "types": "wzd",
+      "icon": "nav_cwg"
+    },
+    {
+      "idType": 18,
+      "name": "高级储物箱",
+      "types": "wzd",
+      "icon": "nav_gjcwx"
+    },
+    {
+      "idType": 19,
+      "name": "抽屉柜",
+      "types": "wzd",
+      "icon": "nav_ctg"
+    },
+    {
+      "idType": 20,
+      "name": "登山包",
+      "types": "wzd",
+      "icon": "nav_dsb"
+    },
+    {
+      "idType": 21,
+      "name": "快递箱",
+      "types": "wzd",
+      "icon": "nav_kdx"
+    },
+    {
+      "idType": 22,
+      "name": "航空储物箱",
+      "types": "wzd",
+      "icon": "nav_hkcwx"
+    },
+    {
+      "idType": 23,
+      "name": "垃圾箱",
+      "types": "wzd",
+      "icon": "nav_ljx"
+    },
+    {
+      "idType": 24,
+      "name": "水泥车",
+      "types": "wzd",
+      "icon": "nav_snc"
+    },
+    {
+      "idType": 25,
+      "name": "野外物资箱",
+      "types": "wzd",
+      "icon": "nav_ywwzx"
+    },
+    {
+      "idType": 26,
+      "name": "鸟窝",
+      "types": "wzd",
+      "icon": "nav_nw"
+    },
+    {
+      "idType": 27,
+      "name": "藏匿物",
+      "types": "wzd",
+      "icon": "nav_cnw"
+    },
+    {
+      "idType": 28,
+      "name": "高级旅行箱",
+      "types": "wzd",
+      "icon": "nav_xlx"
+    },
+    {
+      "idType": 29,
+      "name": "出生点",
+      "types": "revive",
+      "icon": "nav_csd"
+    },
+    {
+      "idType": 30,
+      "name": "付费撤离点",
+      "types": "retreat",
+      "icon": "nav_ffcld"
+    },
+    {
+      "idType": 31,
+      "name": "常规撤离点",
+      "types": "retreat",
+      "icon": "nav_cgcld"
+    },
+    {
+      "idType": 32,
+      "name": "概率撤离点",
+      "types": "retreat",
+      "icon": "nav_sjcld"
+    },
+    {
+      "idType": 33,
+      "name": "条件撤离点",
+      "types": "retreat",
+      "icon": "nav_tjcld"
+    },
+    {
+      "idType": 33,
+      "name": "行动撤离点",
+      "types": "retreat",
+      "icon": "nav_tjcld"
+    },
+    {
+      "idType": 33,
+      "name": "丢包撤离点",
+      "types": "retreat",
+      "icon": "nav_tjcld"
+    },
+    {
+      "idType": 33,
+      "name": "拉闸撤离点",
+      "types": "retreat",
+      "icon": "nav_tjcld"
+    },
+    {
+      "idType": 34,
+      "name": "电梯撤离点",
+      "types": "retreat",
+      "icon": "nav_dtcld"
+    },
+    {
+      "idType": 35,
+      "name": "Boss",
+      "types": "Boss",
+      "icon": "nav_boss"
+    },
+    {
+      "idType": 36,
+      "name": "key",
+      "types": "key",
+      "icon": "nav_boss"
+    },
+    {
+      "idType": 37,
+      "name": "hong",
+      "types": "hong",
+      "icon": "nav_boss"
+    }
+  ],
+  "class_types": {
+    "all": "全部",
+    "wzd": "物资点",
+    "hd": "活动",
+    "Boss": "Boss",
+    "key": "钥匙房",
+    "hong": "刷红点",
+    "revive": "出生点",
+    "retreat": "撤离点"
+  }
+}
