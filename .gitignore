@@ -26,3 +26,6 @@ data_test/
 *.log
 tmp/
 temp/
+
+# Legacy per-map point icons; map icons are now deduplicated in data/maps/images/icons/
+data/maps/modes/**/images/

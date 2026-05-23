@@ -247,7 +247,7 @@
       "type_label": "Boss",
       "category": "boss",
       "image_url": "https://oss.orzice.com/sjz/img/laotai.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/676_德穆兰_Boss.png",
+      "local_image_path": "data/maps/images/icons/laotai_e9e8dc882e.png",
       "position": {
         "x": 700917.0,
         "y": -421030.0,
@@ -283,7 +283,7 @@
       "type_label": "Boss",
       "category": "boss",
       "image_url": "https://oss.orzice.com/sjz/img/laotai.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/677_德穆兰_Boss.png",
+      "local_image_path": "data/maps/images/icons/laotai_e9e8dc882e.png",
       "position": {
         "x": 688145.0,
         "y": -449440.0,
@@ -319,7 +319,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2219_总裁会客厅_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png",
       "position": {
         "x": 703802.0,
         "y": -421635.0,
@@ -355,7 +355,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2220_黑室服务器_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png",
       "position": {
         "x": 707086.0,
         "y": -418860.0,
@@ -391,7 +391,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2221_蓝室核心_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png",
       "position": {
         "x": 707644.0,
         "y": -425872.0,
@@ -427,7 +427,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2373_刷卡点_hong.png",
+      "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png",
       "position": {
         "x": 611467.0,
         "y": -501505.0,
@@ -463,7 +463,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2374_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 612088.0,
         "y": -498410.0,
@@ -499,7 +499,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2375_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 696892.0,
         "y": -511171.0,
@@ -535,7 +535,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2376_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 612270.0,
         "y": -503302.0,
@@ -571,7 +571,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2377_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 612234.0,
         "y": -501734.0,
@@ -607,7 +607,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2378_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 612993.0,
         "y": -500357.0,
@@ -643,7 +643,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2379_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 698520.0,
         "y": -511898.0,
@@ -679,7 +679,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2380_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 718788.0,
         "y": -398496.0,
@@ -715,7 +715,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2381_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 664644.0,
         "y": -496658.0,
@@ -751,7 +751,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2382_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 661771.0,
         "y": -502607.0,
@@ -787,7 +787,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2383_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 705984.0,
         "y": -509753.0,
@@ -823,7 +823,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2384_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 660645.0,
         "y": -497502.0,
@@ -859,7 +859,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2385_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 706719.0,
         "y": -491793.0,
@@ -895,7 +895,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2386_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 705258.0,
         "y": -419773.0,
@@ -931,7 +931,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2387_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 699708.0,
         "y": -416782.0,
@@ -967,7 +967,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2388_火箭燃料_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png",
       "position": {
         "x": 695272.0,
         "y": -425523.0,
@@ -1003,7 +1003,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2390_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 694829.0,
         "y": -419079.0,
@@ -1039,7 +1039,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2391_卫星锅_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png",
       "position": {
         "x": 694798.0,
         "y": -423212.0,
@@ -1075,7 +1075,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2393_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 697628.0,
         "y": -492197.0,
@@ -1111,7 +1111,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2394_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 706886.0,
         "y": -424325.0,
@@ -1147,7 +1147,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2395_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 705156.0,
         "y": -416721.0,
@@ -1183,7 +1183,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2396_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 699672.0,
         "y": -417437.0,
@@ -1219,7 +1219,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2397_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 701960.0,
         "y": -420284.0,
@@ -1255,7 +1255,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2398_刷卡点_hong.png",
+      "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png",
       "position": {
         "x": 706107.0,
         "y": -424544.0,
@@ -1291,7 +1291,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2399_刷卡点_hong.png",
+      "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png",
       "position": {
         "x": 697781.0,
         "y": -417592.0,
@@ -1327,7 +1327,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2400_刷卡点_hong.png",
+      "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png",
       "position": {
         "x": 700905.0,
         "y": -420220.0,
@@ -1363,7 +1363,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2401_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 701015.0,
         "y": -419850.0,
@@ -1399,7 +1399,7 @@
       "type_label": "刷红点",
       "category": "rare_card_spawn",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2402_非洲之心_hong.png",
+      "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png",
       "position": {
         "x": 701720.0,
         "y": -420319.0,
@@ -1435,7 +1435,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2217_蓝室数据_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 707935.0,
         "y": -425851.0,
@@ -1471,7 +1471,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2218_东区吊桥_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 717603.0,
         "y": -416644.0,
@@ -1507,7 +1507,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2210_蓝室玻璃房_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 708577.0,
         "y": -422629.0,
@@ -1543,7 +1543,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2211_浮力室医务间_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 695416.0,
         "y": -420795.0,
@@ -1579,7 +1579,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2212_组装车间二楼_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 661712.0,
         "y": -499601.0,
@@ -1615,7 +1615,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2213_3号宿舍里屋_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 610739.0,
         "y": -498326.0,
@@ -1651,7 +1651,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2214_中控室三楼_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 701893.0,
         "y": -510185.0,
@@ -1687,7 +1687,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2215_西区大门_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 622252.0,
         "y": -422634.0,
@@ -1723,7 +1723,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2216_员工通道_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 714096.0,
         "y": -500234.0,
@@ -1759,7 +1759,7 @@
       "type_label": "钥匙房",
       "category": "key_room",
       "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2222_员工通道_key.png",
+      "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png",
       "position": {
         "x": 689826.0,
         "y": -498205.0,
@@ -1795,7 +1795,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/363_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 695417.0,
         "y": -418204.0,
@@ -1831,7 +1831,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/364_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 704902.0,
         "y": -491851.0,
@@ -1867,7 +1867,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/365_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 662469.0,
         "y": -504150.0,
@@ -1903,7 +1903,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/366_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 664620.0,
         "y": -504150.0,
@@ -1939,7 +1939,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/367_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 662098.0,
         "y": -496123.0,
@@ -1975,7 +1975,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/368_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 612332.0,
         "y": -501786.0,
@@ -2011,7 +2011,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/369_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 697414.0,
         "y": -492694.0,
@@ -2047,7 +2047,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/370_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 697414.0,
         "y": -492644.0,
@@ -2083,7 +2083,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/371_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 698211.0,
         "y": -508188.0,
@@ -2119,7 +2119,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/372_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 698211.0,
         "y": -508859.0,
@@ -2155,7 +2155,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/373_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 696741.0,
         "y": -509374.0,
@@ -2191,7 +2191,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/374_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 664838.0,
         "y": -502117.0,
@@ -2227,7 +2227,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/375_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 704027.0,
         "y": -421643.0,
@@ -2263,7 +2263,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/376_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 704027.0,
         "y": -421010.0,
@@ -2299,7 +2299,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/377_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 707110.0,
         "y": -416746.0,
@@ -2335,7 +2335,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/378_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 694726.0,
         "y": -417780.0,
@@ -2371,7 +2371,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/379_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 664999.0,
         "y": -502473.0,
@@ -2407,7 +2407,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/380_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 611720.0,
         "y": -501127.0,
@@ -2443,7 +2443,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/381_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 613166.0,
         "y": -499723.0,
@@ -2479,7 +2479,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/382_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 699493.0,
         "y": -419308.0,
@@ -2515,7 +2515,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/383_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 692019.0,
         "y": -416795.0,
@@ -2551,7 +2551,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/384_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 707782.0,
         "y": -425659.0,
@@ -2587,7 +2587,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/385_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 701921.0,
         "y": -510805.0,
@@ -2623,7 +2623,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/386_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 662962.0,
         "y": -494558.0,
@@ -2659,7 +2659,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/387_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 661863.0,
         "y": -498102.0,
@@ -2695,7 +2695,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/388_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 710404.0,
         "y": -416458.0,
@@ -2731,7 +2731,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/389_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 710522.0,
         "y": -416513.0,
@@ -2767,7 +2767,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/390_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 697401.0,
         "y": -423416.0,
@@ -2803,7 +2803,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/391_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 703630.0,
         "y": -418181.0,
@@ -2839,7 +2839,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/392_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 704285.0,
         "y": -418178.0,
@@ -2875,7 +2875,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/393_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 694467.0,
         "y": -419080.0,
@@ -2911,7 +2911,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/394_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 696068.0,
         "y": -422493.0,
@@ -2947,7 +2947,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/395_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 710025.0,
         "y": -425891.0,
@@ -2983,7 +2983,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/396_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 707138.0,
         "y": -493559.0,
@@ -3019,7 +3019,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/397_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 700817.0,
         "y": -423638.0,
@@ -3055,7 +3055,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/bxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/398_保险柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/bxx_0bdb3d911b.png",
       "position": {
         "x": 700790.0,
         "y": -510559.0,
@@ -3091,7 +3091,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/399_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 701712.0,
         "y": -421548.0,
@@ -3127,7 +3127,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/400_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 612240.0,
         "y": -500900.0,
@@ -3163,7 +3163,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/401_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 701750.0,
         "y": -423503.0,
@@ -3199,7 +3199,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/402_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 696561.0,
         "y": -508797.0,
@@ -3235,7 +3235,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/403_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 706758.0,
         "y": -420461.0,
@@ -3271,7 +3271,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/404_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 695117.0,
         "y": -417726.0,
@@ -3307,7 +3307,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/405_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 706395.0,
         "y": -493370.0,
@@ -3343,7 +3343,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/406_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 697206.0,
         "y": -419110.0,
@@ -3379,7 +3379,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/407_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 705540.0,
         "y": -509004.0,
@@ -3415,7 +3415,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/408_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 701228.0,
         "y": -510190.0,
@@ -3451,7 +3451,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/409_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 701295.0,
         "y": -510327.0,
@@ -3487,7 +3487,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/410_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 699868.0,
         "y": -510888.0,
@@ -3523,7 +3523,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/411_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 663291.0,
         "y": -495684.0,
@@ -3559,7 +3559,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/412_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 663346.0,
         "y": -496510.0,
@@ -3595,7 +3595,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/413_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 663363.0,
         "y": -497634.0,
@@ -3631,7 +3631,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/414_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 663225.0,
         "y": -499182.0,
@@ -3667,7 +3667,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/415_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 708063.0,
         "y": -417090.0,
@@ -3703,7 +3703,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/416_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 697601.0,
         "y": -492322.0,
@@ -3739,7 +3739,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/417_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 697675.0,
         "y": -492402.0,
@@ -3775,7 +3775,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/418_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 702055.0,
         "y": -508123.0,
@@ -3811,7 +3811,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/419_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 618854.0,
         "y": -501931.0,
@@ -3847,7 +3847,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/420_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 703468.0,
         "y": -403824.0,
@@ -3883,7 +3883,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/421_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 698483.0,
         "y": -502972.0,
@@ -3919,7 +3919,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/422_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 710897.0,
         "y": -503920.0,
@@ -3955,7 +3955,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/423_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 662751.0,
         "y": -418108.0,
@@ -3991,7 +3991,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/424_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 710451.0,
         "y": -416511.0,
@@ -4027,7 +4027,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/425_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 708869.0,
         "y": -416328.0,
@@ -4063,7 +4063,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/426_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 717141.0,
         "y": -398943.0,
@@ -4099,7 +4099,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/427_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 694904.0,
         "y": -417073.0,
@@ -4135,7 +4135,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/428_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 696621.0,
         "y": -417474.0,
@@ -4171,7 +4171,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/429_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 700880.0,
         "y": -419648.0,
@@ -4207,7 +4207,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/430_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 694806.0,
         "y": -424940.0,
@@ -4243,7 +4243,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/431_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 706469.0,
         "y": -493053.0,
@@ -4279,7 +4279,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/432_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 700828.0,
         "y": -509160.0,
@@ -4315,7 +4315,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/433_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 662775.0,
         "y": -499068.0,
@@ -4351,7 +4351,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/434_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 621196.0,
         "y": -412397.0,
@@ -4387,7 +4387,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/435_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 707543.0,
         "y": -403538.0,
@@ -4423,7 +4423,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/436_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 720126.0,
         "y": -425114.0,
@@ -4459,7 +4459,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/437_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 720260.0,
         "y": -501173.0,
@@ -4495,7 +4495,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/438_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 718007.0,
         "y": -506511.0,
@@ -4531,7 +4531,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/439_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 713250.0,
         "y": -510526.0,
@@ -4567,7 +4567,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/440_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 611495.0,
         "y": -501404.0,
@@ -4603,7 +4603,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/441_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 615735.0,
         "y": -500438.0,
@@ -4639,7 +4639,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/442_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 710051.0,
         "y": -415772.0,
@@ -4675,7 +4675,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/443_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 701279.0,
         "y": -417903.0,
@@ -4711,7 +4711,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/444_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 695757.0,
         "y": -492652.0,
@@ -4747,7 +4747,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/445_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 706458.0,
         "y": -507749.0,
@@ -4783,7 +4783,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/446_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 704861.0,
         "y": -507736.0,
@@ -4819,7 +4819,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/447_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 621175.0,
         "y": -456608.0,
@@ -4855,7 +4855,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/448_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 694863.0,
         "y": -454089.0,
@@ -4891,7 +4891,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/449_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 707751.0,
         "y": -417119.0,
@@ -4927,7 +4927,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/450_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 694967.0,
         "y": -492333.0,
@@ -4963,7 +4963,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/451_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 696183.0,
         "y": -425502.0,
@@ -4999,7 +4999,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/452_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 706354.0,
         "y": -420689.0,
@@ -5035,7 +5035,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/453_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 704333.0,
         "y": -421455.0,
@@ -5071,7 +5071,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/454_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 705037.0,
         "y": -422551.0,
@@ -5107,7 +5107,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/455_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 616084.0,
         "y": -503652.0,
@@ -5143,7 +5143,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/456_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 692861.0,
         "y": -417506.0,
@@ -5179,7 +5179,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/457_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 710824.0,
         "y": -395620.0,
@@ -5215,7 +5215,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/458_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 710206.0,
         "y": -418645.0,
@@ -5251,7 +5251,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/459_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 703813.0,
         "y": -418729.0,
@@ -5287,7 +5287,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/460_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 697478.0,
         "y": -493538.0,
@@ -5323,7 +5323,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/461_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 705055.0,
         "y": -422118.0,
@@ -5359,7 +5359,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/462_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 714296.0,
         "y": -424818.0,
@@ -5395,7 +5395,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/463_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 662274.0,
         "y": -493839.0,
@@ -5431,7 +5431,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/464_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 662555.0,
         "y": -503271.0,
@@ -5467,7 +5467,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/465_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 660354.0,
         "y": -505674.0,
@@ -5503,7 +5503,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/466_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 699374.0,
         "y": -418455.0,
@@ -5539,7 +5539,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/467_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 613039.0,
         "y": -499125.0,
@@ -5575,7 +5575,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/468_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 615386.0,
         "y": -501200.0,
@@ -5611,7 +5611,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/469_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 690215.0,
         "y": -420131.0,
@@ -5647,7 +5647,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/470_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 697196.0,
         "y": -509406.0,
@@ -5683,7 +5683,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/471_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 707443.0,
         "y": -422803.0,
@@ -5719,7 +5719,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/472_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 705542.0,
         "y": -425874.0,
@@ -5755,7 +5755,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/473_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 704873.0,
         "y": -511751.0,
@@ -5791,7 +5791,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/474_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 655410.0,
         "y": -497279.0,
@@ -5827,7 +5827,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/lxd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/475_旅行袋_wzd.png",
+      "local_image_path": "data/maps/images/icons/lxd_b4f7858d77.png",
       "position": {
         "x": 716089.0,
         "y": -422252.0,
@@ -5863,7 +5863,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/476_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 710198.0,
         "y": -416539.0,
@@ -5899,7 +5899,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/477_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 707814.0,
         "y": -414237.0,
@@ -5935,7 +5935,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/478_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 707791.0,
         "y": -417107.0,
@@ -5971,7 +5971,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/479_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 697618.0,
         "y": -492086.0,
@@ -6007,7 +6007,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/480_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 706491.0,
         "y": -418404.0,
@@ -6043,7 +6043,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/481_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 698624.0,
         "y": -503741.0,
@@ -6079,7 +6079,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/482_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 707472.0,
         "y": -491962.0,
@@ -6115,7 +6115,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/483_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 704630.0,
         "y": -507435.0,
@@ -6151,7 +6151,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/484_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 662586.0,
         "y": -497989.0,
@@ -6187,7 +6187,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/485_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 612065.0,
         "y": -503114.0,
@@ -6223,7 +6223,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/486_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 697616.0,
         "y": -421335.0,
@@ -6259,7 +6259,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/487_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 695705.0,
         "y": -492635.0,
@@ -6295,7 +6295,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/488_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 705648.0,
         "y": -424419.0,
@@ -6331,7 +6331,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/489_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 706300.0,
         "y": -508203.0,
@@ -6367,7 +6367,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/kdx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/490_快递箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/kdx_10fb6c8963.png",
       "position": {
         "x": 661970.0,
         "y": -497289.0,
@@ -6403,7 +6403,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/491_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 612078.0,
         "y": -501107.0,
@@ -6439,7 +6439,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/492_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 615451.0,
         "y": -500299.0,
@@ -6475,7 +6475,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/493_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 694688.0,
         "y": -423844.0,
@@ -6511,7 +6511,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/494_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 622424.0,
         "y": -502188.0,
@@ -6547,7 +6547,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/495_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 612974.0,
         "y": -500453.0,
@@ -6583,7 +6583,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/496_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 697949.0,
         "y": -418330.0,
@@ -6619,7 +6619,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/497_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 696393.0,
         "y": -425945.0,
@@ -6655,7 +6655,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/498_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 696240.0,
         "y": -422950.0,
@@ -6691,7 +6691,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/499_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 695689.0,
         "y": -423843.0,
@@ -6727,7 +6727,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/500_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 698333.0,
         "y": -423774.0,
@@ -6763,7 +6763,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/501_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 695896.0,
         "y": -423381.0,
@@ -6799,7 +6799,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/502_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 611294.0,
         "y": -492432.0,
@@ -6835,7 +6835,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/503_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 697470.0,
         "y": -419439.0,
@@ -6871,7 +6871,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/504_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 696287.0,
         "y": -420617.0,
@@ -6907,7 +6907,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/505_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 694329.0,
         "y": -424701.0,
@@ -6943,7 +6943,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/506_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 695297.0,
         "y": -425065.0,
@@ -6979,7 +6979,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/507_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 696948.0,
         "y": -506491.0,
@@ -7015,7 +7015,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/508_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 714432.0,
         "y": -503663.0,
@@ -7051,7 +7051,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ljx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/509_垃圾箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ljx_8873fabe47.png",
       "position": {
         "x": 614079.0,
         "y": -499285.0,
@@ -7087,7 +7087,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ljx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/510_垃圾箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ljx_8873fabe47.png",
       "position": {
         "x": 696075.0,
         "y": -394395.0,
@@ -7123,7 +7123,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ljx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/511_垃圾箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ljx_8873fabe47.png",
       "position": {
         "x": 711638.0,
         "y": -395711.0,
@@ -7159,7 +7159,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ljx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/512_垃圾箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ljx_8873fabe47.png",
       "position": {
         "x": 703636.0,
         "y": -504513.0,
@@ -7195,7 +7195,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ljx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/513_垃圾箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ljx_8873fabe47.png",
       "position": {
         "x": 659078.0,
         "y": -510828.0,
@@ -7231,7 +7231,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/514_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 708787.0,
         "y": -416711.0,
@@ -7267,7 +7267,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/515_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 709027.0,
         "y": -418966.0,
@@ -7303,7 +7303,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/516_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 695819.0,
         "y": -418260.0,
@@ -7339,7 +7339,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/517_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 707468.0,
         "y": -425025.0,
@@ -7375,7 +7375,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/518_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 709907.0,
         "y": -422566.0,
@@ -7411,7 +7411,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/519_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 705474.0,
         "y": -506156.0,
@@ -7447,7 +7447,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/520_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 710608.0,
         "y": -418950.0,
@@ -7483,7 +7483,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/521_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 710385.0,
         "y": -425378.0,
@@ -7519,7 +7519,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/522_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 705208.0,
         "y": -493070.0,
@@ -7555,7 +7555,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/523_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 662051.0,
         "y": -494006.0,
@@ -7591,7 +7591,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/524_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 664805.0,
         "y": -497644.0,
@@ -7627,7 +7627,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/525_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 695311.0,
         "y": -449193.0,
@@ -7663,7 +7663,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/526_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 692029.0,
         "y": -418514.0,
@@ -7699,7 +7699,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/527_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 707807.0,
         "y": -418270.0,
@@ -7735,7 +7735,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/528_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 706892.0,
         "y": -416479.0,
@@ -7771,7 +7771,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/529_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 693048.0,
         "y": -422850.0,
@@ -7807,7 +7807,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/530_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 693048.0,
         "y": -422467.0,
@@ -7843,7 +7843,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/531_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 697184.0,
         "y": -511207.0,
@@ -7879,7 +7879,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/532_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 706171.0,
         "y": -424897.0,
@@ -7915,7 +7915,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/533_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 708106.0,
         "y": -492859.0,
@@ -7951,7 +7951,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/534_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 713965.0,
         "y": -509733.0,
@@ -7987,7 +7987,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/535_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 705761.0,
         "y": -507730.0,
@@ -8023,7 +8023,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/536_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 657660.0,
         "y": -495694.0,
@@ -8059,7 +8059,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/537_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 662852.0,
         "y": -495079.0,
@@ -8095,7 +8095,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/538_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 695291.0,
         "y": -458553.0,
@@ -8131,7 +8131,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/539_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 688136.0,
         "y": -454614.0,
@@ -8167,7 +8167,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/540_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 696357.0,
         "y": -421130.0,
@@ -8203,7 +8203,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/541_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 708895.0,
         "y": -401405.0,
@@ -8239,7 +8239,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/542_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 704795.0,
         "y": -422666.0,
@@ -8275,7 +8275,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ywwzx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/543_野外物资箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/ywwzx_2b6a1fefc1.png",
       "position": {
         "x": 660516.0,
         "y": -418752.0,
@@ -8311,7 +8311,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/544_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 691506.0,
         "y": -418102.0,
@@ -8347,7 +8347,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/545_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 697254.0,
         "y": -508205.0,
@@ -8383,7 +8383,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/546_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 657556.0,
         "y": -500610.0,
@@ -8419,7 +8419,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/547_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 661635.0,
         "y": -503678.0,
@@ -8455,7 +8455,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/548_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 617651.0,
         "y": -498752.0,
@@ -8491,7 +8491,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/549_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 617604.0,
         "y": -424295.0,
@@ -8527,7 +8527,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/550_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 699761.0,
         "y": -420870.0,
@@ -8563,7 +8563,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/551_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 697073.0,
         "y": -492625.0,
@@ -8599,7 +8599,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/552_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 697361.0,
         "y": -423847.0,
@@ -8635,7 +8635,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/553_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 700161.0,
         "y": -509749.0,
@@ -8671,7 +8671,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/554_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 702155.0,
         "y": -423323.0,
@@ -8707,7 +8707,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/555_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 703880.0,
         "y": -420675.0,
@@ -8743,7 +8743,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/556_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 706372.0,
         "y": -506124.0,
@@ -8779,7 +8779,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/557_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 704791.0,
         "y": -506116.0,
@@ -8815,7 +8815,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/558_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 714303.0,
         "y": -424062.0,
@@ -8851,7 +8851,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/559_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 660083.0,
         "y": -497948.0,
@@ -8887,7 +8887,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/560_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 660245.0,
         "y": -500485.0,
@@ -8923,7 +8923,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/561_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 615638.0,
         "y": -502059.0,
@@ -8959,7 +8959,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/562_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 696003.0,
         "y": -416133.0,
@@ -8995,7 +8995,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/563_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 706701.0,
         "y": -419765.0,
@@ -9031,7 +9031,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/564_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 695194.0,
         "y": -423696.0,
@@ -9067,7 +9067,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/565_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 710236.0,
         "y": -424467.0,
@@ -9103,7 +9103,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/566_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 707932.0,
         "y": -420034.0,
@@ -9139,7 +9139,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/567_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 714053.0,
         "y": -495979.0,
@@ -9175,7 +9175,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/568_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 705345.0,
         "y": -506807.0,
@@ -9211,7 +9211,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/569_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 705868.0,
         "y": -493537.0,
@@ -9247,7 +9247,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/570_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 718073.0,
         "y": -397485.0,
@@ -9283,7 +9283,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/571_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 699445.0,
         "y": -416611.0,
@@ -9319,7 +9319,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/572_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 707945.0,
         "y": -419307.0,
@@ -9355,7 +9355,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/573_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 701582.0,
         "y": -418881.0,
@@ -9391,7 +9391,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/574_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 693110.0,
         "y": -493058.0,
@@ -9427,7 +9427,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/575_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 698004.0,
         "y": -506837.0,
@@ -9463,7 +9463,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/576_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 698274.0,
         "y": -511892.0,
@@ -9499,7 +9499,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/577_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 706238.0,
         "y": -507775.0,
@@ -9535,7 +9535,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/578_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 706249.0,
         "y": -507775.0,
@@ -9571,7 +9571,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/579_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 696653.0,
         "y": -510634.0,
@@ -9607,7 +9607,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/580_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 662596.0,
         "y": -494192.0,
@@ -9643,7 +9643,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/581_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 662588.0,
         "y": -495904.0,
@@ -9679,7 +9679,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/582_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 662941.0,
         "y": -496293.0,
@@ -9715,7 +9715,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/583_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 697393.0,
         "y": -418710.0,
@@ -9751,7 +9751,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/584_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 661522.0,
         "y": -493956.0,
@@ -9787,7 +9787,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/585_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 703842.0,
         "y": -510756.0,
@@ -9823,7 +9823,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/586_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 611404.0,
         "y": -503388.0,
@@ -9859,7 +9859,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/587_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 708227.0,
         "y": -416635.0,
@@ -9895,7 +9895,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/588_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 693039.0,
         "y": -492861.0,
@@ -9931,7 +9931,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/589_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 703599.0,
         "y": -423504.0,
@@ -9967,7 +9967,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/590_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 696470.0,
         "y": -415947.0,
@@ -10003,7 +10003,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/591_电脑包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 705833.0,
         "y": -507786.0,
@@ -10039,7 +10039,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dn.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/593_电脑_wzd.png",
+      "local_image_path": "data/maps/images/icons/dn_e550c39277.png",
       "position": {
         "x": 612202.0,
         "y": -501622.0,
@@ -10075,7 +10075,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dn.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/594_电脑_wzd.png",
+      "local_image_path": "data/maps/images/icons/dn_e550c39277.png",
       "position": {
         "x": 702200.0,
         "y": -419609.0,
@@ -10111,7 +10111,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dn.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/595_电脑_wzd.png",
+      "local_image_path": "data/maps/images/icons/dn_e550c39277.png",
       "position": {
         "x": 662780.0,
         "y": -497647.0,
@@ -10147,7 +10147,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/596_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 696655.0,
         "y": -414458.0,
@@ -10183,7 +10183,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/597_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 696655.0,
         "y": -417056.0,
@@ -10219,7 +10219,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/598_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 696655.0,
         "y": -417207.0,
@@ -10255,7 +10255,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/599_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 696655.0,
         "y": -417230.0,
@@ -10291,7 +10291,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/600_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 705258.0,
         "y": -491824.0,
@@ -10327,7 +10327,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/601_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 705258.0,
         "y": -491848.0,
@@ -10363,7 +10363,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/602_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 695289.0,
         "y": -420925.0,
@@ -10399,7 +10399,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cwg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/603_储物柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/cwg_dbb768d9be.png",
       "position": {
         "x": 694800.0,
         "y": -420925.0,
@@ -10435,7 +10435,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/wqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/604_武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/wqx_61ce4ca14a.png",
       "position": {
         "x": 696172.0,
         "y": -421124.0,
@@ -10471,7 +10471,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/wqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/605_武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/wqx_61ce4ca14a.png",
       "position": {
         "x": 692736.0,
         "y": -417388.0,
@@ -10507,7 +10507,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/wqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/606_武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/wqx_61ce4ca14a.png",
       "position": {
         "x": 707010.0,
         "y": -421989.0,
@@ -10543,7 +10543,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/wqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/607_武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/wqx_61ce4ca14a.png",
       "position": {
         "x": 704665.0,
         "y": -422120.0,
@@ -10579,7 +10579,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dn.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/608_电脑_wzd.png",
+      "local_image_path": "data/maps/images/icons/dn_e550c39277.png",
       "position": {
         "x": 688673.0,
         "y": -452189.0,
@@ -10615,7 +10615,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/609_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 609993.0,
         "y": -420777.0,
@@ -10651,7 +10651,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/610_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 609899.0,
         "y": -503972.0,
@@ -10687,7 +10687,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/611_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 386427.0,
         "y": -542745.0,
@@ -10723,7 +10723,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/612_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 696841.0,
         "y": -513047.0,
@@ -10759,7 +10759,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/613_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 665272.0,
         "y": -496325.0,
@@ -10795,7 +10795,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/614_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 711215.0,
         "y": -500962.0,
@@ -10831,7 +10831,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/615_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 655664.0,
         "y": -512507.0,
@@ -10867,7 +10867,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/616_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 658219.0,
         "y": -413509.0,
@@ -10903,7 +10903,7 @@
       "type_label": "出生点",
       "category": "spawn",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/csd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/617_出生点_revive.png",
+      "local_image_path": "data/maps/images/icons/csd_931fc22548.png",
       "position": {
         "x": 691547.0,
         "y": -450972.0,
@@ -10939,7 +10939,7 @@
       "type_label": "撤离点",
       "category": "extraction",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dtcld.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/618_拉闸撤离点_retreat.png",
+      "local_image_path": "data/maps/images/icons/dtcld_5f3468a733.png",
       "position": {
         "x": 705644.0,
         "y": -409399.0,
@@ -10975,7 +10975,7 @@
       "type_label": "撤离点",
       "category": "extraction",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/tjcld.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/619_丢包撤离点_retreat.png",
+      "local_image_path": "data/maps/images/icons/tjcld_655de2b10b.png",
       "position": {
         "x": 719031.0,
         "y": -393396.0,
@@ -11011,7 +11011,7 @@
       "type_label": "撤离点",
       "category": "extraction",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hjcld.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/620_行动撤离点_retreat.png",
+      "local_image_path": "data/maps/images/icons/hjcld_58f046694b.png",
       "position": {
         "x": 694133.0,
         "y": -450335.0,
@@ -11047,7 +11047,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/621_衣服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_3648435d08.png",
       "position": {
         "x": 611923.0,
         "y": -501786.0,
@@ -11083,7 +11083,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/yf_s.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/622_实验服_wzd.png",
+      "local_image_path": "data/maps/images/icons/yf_s_7432c4b23e.png",
       "position": {
         "x": 699174.0,
         "y": -421418.0,
@@ -11119,7 +11119,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/623_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 611425.0,
         "y": -500977.0,
@@ -11155,7 +11155,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/624_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 699743.0,
         "y": -416415.0,
@@ -11191,7 +11191,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dsb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/625_登山包_wzd.png",
+      "local_image_path": "data/maps/images/icons/dsb_8c6c389f94.png",
       "position": {
         "x": 703657.0,
         "y": -421566.0,
@@ -11227,7 +11227,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/626_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 715084.0,
         "y": -405209.0,
@@ -11263,7 +11263,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/cnw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/627_藏匿物_wzd.png",
+      "local_image_path": "data/maps/images/icons/cnw_0b2310a91d.png",
       "position": {
         "x": 655982.0,
         "y": -500784.0,
@@ -11299,7 +11299,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/628_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 697694.0,
         "y": -416972.0,
@@ -11335,7 +11335,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/629_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 707269.0,
         "y": -416209.0,
@@ -11371,7 +11371,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/630_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 710263.0,
         "y": -419099.0,
@@ -11407,7 +11407,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/631_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 707061.0,
         "y": -491854.0,
@@ -11443,7 +11443,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/632_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 661860.0,
         "y": -496522.0,
@@ -11479,7 +11479,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dnjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/633_电脑机箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dnjx_69a673326b.png",
       "position": {
         "x": 662674.0,
         "y": -496096.0,
@@ -11515,7 +11515,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/nw.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/634_鸟窝_wzd.png",
+      "local_image_path": "data/maps/images/icons/nw_7d391d2e20.png",
       "position": {
         "x": 710483.0,
         "y": -402837.0,
@@ -11551,7 +11551,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/635_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 696597.0,
         "y": -493279.0,
@@ -11587,7 +11587,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/stx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/636_手提箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/stx_56dbf144f5.png",
       "position": {
         "x": 701431.0,
         "y": -511141.0,
@@ -11623,7 +11623,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/637_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 703946.0,
         "y": -420879.0,
@@ -11659,7 +11659,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xbxx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/638_小保险箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xbxx_66cf9af19b.png",
       "position": {
         "x": 708332.0,
         "y": -425851.0,
@@ -11695,7 +11695,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/639_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 613983.0,
         "y": -498972.0,
@@ -11731,7 +11731,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dwqx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/640_大武器箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dwqx_a9ed724ea9.png",
       "position": {
         "x": 697156.0,
         "y": -509530.0,
@@ -11767,7 +11767,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/641_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 701174.0,
         "y": -418891.0,
@@ -11803,7 +11803,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/642_高级储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjcwx_38a8925109.png",
       "position": {
         "x": 701238.0,
         "y": -510372.0,
@@ -11839,7 +11839,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/643_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 611808.0,
         "y": -500376.0,
@@ -11875,7 +11875,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/644_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 612248.0,
         "y": -499982.0,
@@ -11911,7 +11911,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/645_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 612432.0,
         "y": -499914.0,
@@ -11947,7 +11947,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/646_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 707432.0,
         "y": -416637.0,
@@ -11983,7 +11983,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/647_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 708789.0,
         "y": -416769.0,
@@ -12019,7 +12019,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/648_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 696130.0,
         "y": -423774.0,
@@ -12055,7 +12055,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/xlx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/649_高级旅行箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/xlx_6cabb34d66.png",
       "position": {
         "x": 700543.0,
         "y": -511290.0,
@@ -12091,7 +12091,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/650_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 611248.0,
         "y": -491878.0,
@@ -12127,7 +12127,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/651_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 701868.0,
         "y": -420005.0,
@@ -12163,7 +12163,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/652_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 704548.0,
         "y": -491671.0,
@@ -12199,7 +12199,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/653_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 703964.0,
         "y": -506597.0,
@@ -12235,7 +12235,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylb.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/654_医疗包_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylb_78ab1fc4b8.png",
       "position": {
         "x": 701828.0,
         "y": -510574.0,
@@ -12271,7 +12271,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ylwzd.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/655_医疗物资堆_wzd.png",
+      "local_image_path": "data/maps/images/icons/ylwzd_cac1f0321b.png",
       "position": {
         "x": 688985.0,
         "y": -501366.0,
@@ -12307,7 +12307,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/656_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 709772.0,
         "y": -416611.0,
@@ -12343,7 +12343,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/fwq.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/657_服务器_wzd.png",
+      "local_image_path": "data/maps/images/icons/fwq_48783c83ae.png",
       "position": {
         "x": 708084.0,
         "y": -425025.0,
@@ -12379,7 +12379,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/658_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 616224.0,
         "y": -500362.0,
@@ -12415,7 +12415,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/659_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 691498.0,
         "y": -419447.0,
@@ -12451,7 +12451,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/660_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 709637.0,
         "y": -419078.0,
@@ -12487,7 +12487,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/661_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 716067.0,
         "y": -425521.0,
@@ -12523,7 +12523,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/662_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 657969.0,
         "y": -509074.0,
@@ -12559,7 +12559,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/663_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 663470.0,
         "y": -496126.0,
@@ -12595,7 +12595,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dgjx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/664_大工具盒_wzd.png",
+      "local_image_path": "data/maps/images/icons/dgjx_24c7855d8a.png",
       "position": {
         "x": 662190.0,
         "y": -505711.0,
@@ -12631,7 +12631,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/665_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 697644.0,
         "y": -423213.0,
@@ -12667,7 +12667,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/dyx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/666_弹药箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/dyx_4b0cf13fcf.png",
       "position": {
         "x": 661081.0,
         "y": -418020.0,
@@ -12703,7 +12703,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/667_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 694539.0,
         "y": -421082.0,
@@ -12739,7 +12739,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/668_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 707513.0,
         "y": -422226.0,
@@ -12775,7 +12775,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/hkcwx.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/669_航空储物箱_wzd.png",
+      "local_image_path": "data/maps/images/icons/hkcwx_3ecf915769.png",
       "position": {
         "x": 704811.0,
         "y": -420713.0,
@@ -12811,7 +12811,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/670_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 699860.0,
         "y": -417414.0,
@@ -12847,7 +12847,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/671_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 701494.0,
         "y": -511633.0,
@@ -12883,7 +12883,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/672_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 661952.0,
         "y": -496237.0,
@@ -12919,7 +12919,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/ctg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/673_抽屉柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/ctg_a51a9d4998.png",
       "position": {
         "x": 662032.0,
         "y": -502847.0,
@@ -12955,7 +12955,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/674_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 695181.0,
         "y": -416117.0,
@@ -12991,7 +12991,7 @@
       "type_label": "物资点",
       "category": "loot_point",
       "image_url": "https://game.gtimg.cn/images/dfm/cp/a20240729directory/img/lv3/gjg.png",
-      "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/675_工具柜_wzd.png",
+      "local_image_path": "data/maps/images/icons/gjg_1ee263d7f3.png",
       "position": {
         "x": 707820.0,
         "y": -492552.0,
@@ -13035,7 +13035,7 @@
         "diy": "随机刷新",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/laotai.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/676_德穆兰_Boss.png"
+        "local_image_path": "data/maps/images/icons/laotai_e9e8dc882e.png"
       },
       {
         "id": 677,
@@ -13053,7 +13053,7 @@
         "diy": "随机刷新",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/laotai.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/677_德穆兰_Boss.png"
+        "local_image_path": "data/maps/images/icons/laotai_e9e8dc882e.png"
       }
     ],
     "special_units": [],
@@ -13074,7 +13074,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2219_总裁会客厅_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png"
       },
       {
         "id": 2220,
@@ -13092,7 +13092,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2220_黑室服务器_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png"
       },
       {
         "id": 2221,
@@ -13110,7 +13110,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2221_蓝室核心_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E9%87%91%E5%8D%A1_e4f4e2dd79.png"
       },
       {
         "id": 2217,
@@ -13128,7 +13128,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2217_蓝室数据_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2218,
@@ -13146,7 +13146,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2218_东区吊桥_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2210,
@@ -13164,7 +13164,7 @@
         "diy": "一楼进门左转",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2210_蓝室玻璃房_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2211,
@@ -13182,7 +13182,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2211_浮力室医务间_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2212,
@@ -13200,7 +13200,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2212_组装车间二楼_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2213,
@@ -13218,7 +13218,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2213_3号宿舍里屋_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2214,
@@ -13236,7 +13236,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2214_中控室三楼_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2215,
@@ -13254,7 +13254,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2215_西区大门_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2216,
@@ -13272,7 +13272,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2216_员工通道_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       },
       {
         "id": 2222,
@@ -13290,7 +13290,7 @@
         "diy": "-",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/key/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2222_员工通道_key.png"
+        "local_image_path": "data/maps/images/icons/p_%E8%88%AA%E5%A4%A9%E5%9F%BA%E5%9C%B0%E7%99%BD%E5%8D%A1_ff3e59b11a.png"
       }
     ],
     "rare_card_spawns": [
@@ -13310,7 +13310,7 @@
         "diy": "电脑旁会刷新钥匙卡",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2373_刷卡点_hong.png"
+        "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png"
       },
       {
         "id": 2374,
@@ -13328,7 +13328,7 @@
         "diy": "桌子上会刷新非洲之心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2374_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2375,
@@ -13346,7 +13346,7 @@
         "diy": "后门进门后的空地上会刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2375_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2376,
@@ -13364,7 +13364,7 @@
         "diy": "一楼桌子上刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2376_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2377,
@@ -13382,7 +13382,7 @@
         "diy": "一楼桌子上刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2377_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2378,
@@ -13400,7 +13400,7 @@
         "diy": "一楼桌子上刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2378_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2379,
@@ -13418,7 +13418,7 @@
         "diy": "会议室主席台会刷心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2379_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2380,
@@ -13436,7 +13436,7 @@
         "diy": "桌子上刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2380_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2381,
@@ -13454,7 +13454,7 @@
         "diy": "彩蛋房桌子上刷新",
         "collect": "彩蛋密码门",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2381_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2382,
@@ -13472,7 +13472,7 @@
         "diy": "1.操作台上 2.第三个房间桌子 地上会刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2382_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2383,
@@ -13490,7 +13490,7 @@
         "diy": "一楼散落的工具堆前",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2383_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2384,
@@ -13508,7 +13508,7 @@
         "diy": "1.流水线上 2.出生点的临时办公点 地上会刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2384_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2385,
@@ -13526,7 +13526,7 @@
         "diy": "蓝室底部下沉坑中会刷新火箭燃料（在工具柜附近）",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2385_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2386,
@@ -13544,7 +13544,7 @@
         "diy": "中心平台地上会刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2386_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2387,
@@ -13562,7 +13562,7 @@
         "diy": " 储物间椅子旁",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2387_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2388,
@@ -13580,7 +13580,7 @@
         "diy": "浮力室坑底火箭舱内会刷新火箭燃料",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15020010033.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2388_火箭燃料_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15020010033_8e6d391fc8.png"
       },
       {
         "id": 2390,
@@ -13598,7 +13598,7 @@
         "diy": "一楼拉闸点旁会刷新",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2390_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2391,
@@ -13616,7 +13616,7 @@
         "diy": "浮力室衣物间的两个房子〔浮力医务室外面〕会刷新卫星通信",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15030050013.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2391_卫星锅_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15030050013_0ac5ce68cc.png"
       },
       {
         "id": 2393,
@@ -13634,7 +13634,7 @@
         "diy": "二楼指挥室内部桌子上会刷新非洲之心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2393_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2394,
@@ -13652,7 +13652,7 @@
         "diy": "在钥匙房〔蓝室核心〕桌子上会刷新非洲之心",
         "collect": "蓝室核心",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2394_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2395,
@@ -13670,7 +13670,7 @@
         "diy": "二楼指挥室桌子上会刷新非洲之心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2395_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2396,
@@ -13688,7 +13688,7 @@
         "diy": "有储物柜的办公室进门桌子上刷",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2396_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2397,
@@ -13706,7 +13706,7 @@
         "diy": "总裁室右侧沙发前的茶几上刷心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2397_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2398,
@@ -13724,7 +13724,7 @@
         "diy": "蓝室二楼会议室桌子上刷新钥匙卡",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2398_刷卡点_hong.png"
+        "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png"
       },
       {
         "id": 2399,
@@ -13742,7 +13742,7 @@
         "diy": "离心机室一楼医务室进门桌子上会刷新钥匙卡",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2399_刷卡点_hong.png"
+        "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png"
       },
       {
         "id": 2400,
@@ -13760,7 +13760,7 @@
         "diy": "在总裁室桌子上会刷新钥匙卡",
         "collect": "",
         "image_url": "https://oss.orzice.com/sjz/img/key/db_2.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2400_刷卡点_hong.png"
+        "local_image_path": "data/maps/images/icons/db_2_dcdc53346b.png"
       },
       {
         "id": 2401,
@@ -13778,7 +13778,7 @@
         "diy": "右侧保险柜房的保险柜中刷心",
         "collect": "",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2401_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       },
       {
         "id": 2402,
@@ -13796,7 +13796,7 @@
         "diy": "展柜刷心",
         "collect": "总裁室会客厅",
         "image_url": "https://playerhub.df.qq.com/playerhub/60004/object/p_15080050006.png",
-        "local_image_path": "data/maps/modes/2_航天基地/3_绝密/images/2402_非洲之心_hong.png"
+        "local_image_path": "data/maps/images/icons/p_15080050006_cef557bd96.png"
       }
     ]
   },

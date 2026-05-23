@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import re
 import shutil
@@ -131,7 +132,7 @@ class DeltaForceMapScraper:
             points = payload.get("item") or []
             map_info = map_infos.get(map_config.get("info_var", ""), {})
             mode_dir = self.mode_dir(map_config)
-            image_dir = mode_dir / "images"
+            image_dir = self.image_cache_dir()
             if self.config.download_images:
                 image_dir.mkdir(parents=True, exist_ok=True)
 
@@ -227,14 +228,16 @@ class DeltaForceMapScraper:
         mode_dir = safe_filename(f"{map_config['mode_id']}_{map_config['mode_name']}")
         return self.config.out_dir / "modes" / map_dir / mode_dir
 
+    def image_cache_dir(self) -> Path:
+        return self.config.out_dir / "images" / "icons"
+
     def download_point_image(self, point: dict[str, Any], image_dir: Path) -> None:
         image_url = normalize_icon_url(point.get("icon") or point.get("image_url") or "")
         point["image_url"] = image_url
         if not image_url:
             return
 
-        suffix = image_suffix(image_url)
-        filename = safe_filename(f"{point.get('id', '')}_{point.get('name', '')}_{point.get('type', '')}") + suffix
+        filename = image_cache_filename(image_url)
         target = image_dir / filename
         point["local_image_path"] = str(target.as_posix())
         if target.exists() and target.stat().st_size > 0:
@@ -639,6 +642,14 @@ def safe_filename(value: str) -> str:
 def image_suffix(url: str) -> str:
     suffix = Path(urlparse(url).path).suffix.lower()
     return suffix if suffix in {".png", ".jpg", ".jpeg", ".webp", ".gif"} else ".img"
+
+
+def image_cache_filename(url: str) -> str:
+    parsed_path = Path(urlparse(url).path)
+    stem = safe_filename(parsed_path.stem or "icon")
+    suffix = image_suffix(url)
+    url_hash = hashlib.sha256(url.encode("utf-8")).hexdigest()[:10]
+    return f"{stem}_{url_hash}{suffix}"
 
 
 def suffix_from_content_type(content_type: str) -> str:

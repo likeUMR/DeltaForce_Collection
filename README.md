@@ -53,7 +53,7 @@ python .\scrape_deltaforce_maps.py
 - `data/maps/modes/<地图>/<模式>/metadata.json`
 - `data/maps/modes/<地图>/<模式>/points.json`
 - `data/maps/modes/<地图>/<模式>/points.csv`
-- `data/maps/modes/<地图>/<模式>/images/`
+- `data/maps/images/icons/`
 
 常用参数：
 
@@ -67,6 +67,8 @@ python .\scrape_deltaforce_maps.py --skip-images --max-modes 1
 # 只抓指定地图或难度
 python .\scrape_deltaforce_maps.py --only-map 零号大坝 --only-level 机密
 ```
+
+点位图标会按图片 URL 去重保存到 `data/maps/images/icons/`，不同地图/模式中的相同图标会复用同一个本地文件。
 
 ## 容器资源爬取
 
@@ -87,6 +89,8 @@ python .\scrape_deltaforce_containers.py
 - `data/containers/images/containers/`
 - `data/containers/images/loot/`
 
+容器图片下载完成后会自动把 `data/containers/images/containers/` 里的 WebP 转成 PNG；已有且未过期的 PNG 会跳过，不会重复转换。
+
 常用参数：
 
 ```powershell
@@ -101,6 +105,12 @@ python .\scrape_deltaforce_containers.py --container-id bxg --samples-per-contai
 
 # 尝试对容器一览中的所有容器请求模拟接口
 python .\scrape_deltaforce_containers.py --try-all-simulation
+
+# 单独转换已有容器 WebP 图片
+python .\convert_webp_to_png.py .\data\containers\images\containers --no-recursive
+
+# 抓取时不做 PNG 转换
+python .\scrape_deltaforce_containers.py --skip-container-png
 ```
 
 说明：网页没有直接公开静态“官方爆率表”。脚本中的 `grade_drop_rates`、`occurrences_per_draw`、`draw_hit_rate` 是基于模拟搜索接口采样得到的估算值；样本越大越稳定。
